@@ -1,0 +1,24 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24/06/2022, 10:44:36 م
+    Author     : عبدالرحمن
+*/
+
+.root{
+     -fx-background-image:   url("photo272.jpg");
+       } 
+       
+       .button{ /* linear-gradient(#61a2b1,#2A5058)*/
+           -fx-text-fill: #ccffff;
+    -fx-background-color:linear-gradient(#61a2b1,#2A5058);}
+   
+   .label{-fx-text-fill: white;
+  -fx-font-size:16px; 
+  -fx-font-weight:bold;}
+   
+   
+  
